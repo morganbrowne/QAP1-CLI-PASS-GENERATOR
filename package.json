@@ -1,0 +1,14 @@
+{
+  "name": "qap1-cli-pass-gen",
+  "version": "1.0.0",
+  "description": "CLI Password Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "password-gen": "./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
